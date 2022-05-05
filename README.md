@@ -1,5 +1,7 @@
 ### Hi there 👋
 <center><h1>henielp</h1></center>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=Henielpervall&color=23156F)
 <!--
 **Henielpervall/Henielpervall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
